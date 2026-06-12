@@ -109,7 +109,9 @@ Generative AI applications, AI assistants & copilots, Retrieval-Augmented Genera
 </tr>
 </table>
 
+
 ---
+
 
 ### 📜 Certifications
 
