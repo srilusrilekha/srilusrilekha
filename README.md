@@ -32,7 +32,7 @@ Generative AI applications, AI assistants & copilots, Retrieval-Augmented Genera
 
 ### 🧰 Tools & Technologies
 
-<table align="center" width="100%">
+<table align="left" width="100%">
 <tr>
 <td valign="top" width="50%">
 
