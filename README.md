@@ -96,18 +96,6 @@ Generative AI applications, AI assistants & copilots, Retrieval-Augmented Genera
 </tr>
 </table>
 
----
-
-### 🎯 Current Focus
-
-- 🔹 Generative AI for Data Engineering
-- 🔹 AI Agents & Intelligent Automation
-- 🔹 Microsoft Fabric Advanced Architectures
-- 🔹 Cloud-Native Data Platforms
-- 🔹 End-to-End Data & AI Solutions
-
----
-
 ### 📜 Certifications
 
 | Certification | Issuer | Issued · Expires | Credential ID | Verify |
