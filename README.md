@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Srilekha Jidagam 👋</h1>
-<h3 align="center">Senior Data Engineer | Cloud & Analytics Specialist | AI Solutions Enthusiast</h3>
+<h3 align="center">Senior Data Associate | Cloud & Analytics Specialist | AI Solutions Enthusiast</h3>
 <p align="center">🏆 Databricks Certified · Microsoft Fabric Certified · Power BI Certified</p>
 
 <p align="center">
