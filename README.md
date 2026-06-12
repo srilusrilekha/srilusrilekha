@@ -43,12 +43,11 @@ Power BI &nbsp;·&nbsp; Tableau &nbsp;·&nbsp; Kibana &nbsp;·&nbsp; Cognos &nbs
 </td>
 <td valign="top" width="50%">
 
-  **💻 Programming Languages**
+  **💻 Languages**
 <br/>
-Python &nbsp;·&nbsp; SQL &nbsp;·&nbsp; PySpark &nbsp;·&nbsp; C &nbsp;·&nbsp; C++
+`Python` `SQL` `PySpark` `C` `C++`
+ 
 </td>
-</tr>
-<tr>
 <td valign="top" width="50%">
 
   **☁️ Cloud Platforms**
