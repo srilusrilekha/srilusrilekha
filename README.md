@@ -3,7 +3,7 @@
 <p align="center">🏆 Databricks Certified · Microsoft Fabric Certified · Power BI Certified</p>
 
 <p align="center">
-  Results-driven Data Engineering professional with 7+ years of experience designing real-time, large-scale data pipelines and cloud-native analytics platforms that turn raw data into actionable business insights.
+  Results-driven Data professional with 7+ years of experience across data engineering and analytics — designing real-time, large-scale data pipelines, cloud-native platforms, and BI solutions that turn raw data into actionable business insights.
 </p>
 
 <p align="center">
