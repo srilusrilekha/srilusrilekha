@@ -99,6 +99,10 @@ Generative AI applications, AI assistants & copilots, Retrieval-Augmented Genera
 - 🔹 End-to-End Data & AI Solutions
 
 ---
+### 📜 Certifications
+
+CertificationIssuerIssued · ExpiresCredential IDVerifyDatabricks Certified Data Engineer AssociateDatabricksJul 2025 · Jul 2027155969265Verify Credential
+---
 
 ### 📌 Featured Repositories
 
@@ -109,19 +113,5 @@ Generative AI applications, AI assistants & copilots, Retrieval-Augmented Genera
 | 📊 **Analytics & BI** | Dashboards, reporting solutions, and business insight accelerators |
 
 ---
-
-### 💡 My Philosophy
-
-> Data is valuable only when it drives action. My goal is to build scalable platforms, intelligent workflows, and AI-powered solutions that help organizations make faster, smarter, and more confident decisions.
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=srilekhajidagam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srilekhajidagam&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
 
 <p align="center">⭐ Explore the repositories below to see how data engineering, cloud technologies, analytics, and AI come together to solve real-world business problems.</p>
