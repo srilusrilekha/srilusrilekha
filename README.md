@@ -35,7 +35,7 @@ Generative AI applications, AI assistants & copilots, Retrieval-Augmented Genera
 <table align="left" width="100%">
 <tr>
 <td valign="top" width="50%">
-**💻 Languages**
+**💻 Programming Languages**
 <br/>
 Python &nbsp;·&nbsp; SQL &nbsp;·&nbsp; PySpark &nbsp;·&nbsp; C &nbsp;·&nbsp; C++
  
@@ -77,6 +77,7 @@ Claude &nbsp;·&nbsp; ChatGPT &nbsp;·&nbsp; Copilot &nbsp;·&nbsp; n8n &nbsp;·
 </tr>
 </table>
 <br clear="both"/>
+
 ---
  
 ### 📜 Certifications
