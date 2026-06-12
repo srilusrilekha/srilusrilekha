@@ -35,27 +35,30 @@ Generative AI applications, AI assistants & copilots, Retrieval-Augmented Genera
 <table align="left" width="100%">
 <tr>
 <td valign="top" width="50%">
-**💻 Programming Languages**
-<br/>
-Python &nbsp;·&nbsp; SQL &nbsp;·&nbsp; PySpark &nbsp;·&nbsp; C &nbsp;·&nbsp; C++
- 
-</td>
-<td valign="top" width="50%">
-**📊 Visualization & BI**
+
+  **📊 Visualization & BI**
 <br/>
 Power BI &nbsp;·&nbsp; Tableau &nbsp;·&nbsp; Kibana &nbsp;·&nbsp; Cognos &nbsp;·&nbsp; AWS QuickSight
- 
+  
+</td>
+<td valign="top" width="50%">
+
+  **💻 Programming Languages**
+<br/>
+Python &nbsp;·&nbsp; SQL &nbsp;·&nbsp; PySpark &nbsp;·&nbsp; C &nbsp;·&nbsp; C++
 </td>
 </tr>
 <tr>
 <td valign="top" width="50%">
-**☁️ Cloud Platforms**
+
+  **☁️ Cloud Platforms**
 <br/>
 Azure &nbsp;·&nbsp; AWS &nbsp;·&nbsp; GCP &nbsp;·&nbsp; IBM Cloud &nbsp;·&nbsp; Microsoft Fabric
  
 </td>
 <td valign="top" width="50%">
-**🗄️ Databases & Storage**
+
+  **🗄️ Databases & Storage**
 <br/>
 Elasticsearch &nbsp;·&nbsp; MySQL &nbsp;·&nbsp; NoSQL &nbsp;·&nbsp; Azure SQL &nbsp;·&nbsp; DB2 &nbsp;·&nbsp; Redshift
  
@@ -63,13 +66,15 @@ Elasticsearch &nbsp;·&nbsp; MySQL &nbsp;·&nbsp; NoSQL &nbsp;·&nbsp; Azure SQL
 </tr>
 <tr>
 <td valign="top" width="50%">
-**🔧 AWS Services & Orchestration**
+
+  **🔧 AWS Services & Orchestration**
 <br/>
 Glue &nbsp;·&nbsp; CloudWatch &nbsp;·&nbsp; IAM &nbsp;·&nbsp; Secrets Manager &nbsp;·&nbsp; Airflow &nbsp;·&nbsp; IWS Scheduling
  
 </td>
 <td valign="top" width="50%">
-**🤖 AI & Automation**
+
+  **🤖 AI & Automation**
 <br/>
 Claude &nbsp;·&nbsp; ChatGPT &nbsp;·&nbsp; Copilot &nbsp;·&nbsp; n8n &nbsp;·&nbsp; RAG
  
