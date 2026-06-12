@@ -87,8 +87,8 @@ Generative AI applications, AI assistants & copilots, Retrieval-Augmented Genera
  
 ### 📜 Certifications
  
-| Certification | Issued By | Issued On         | Verify |
-|---|---|---|---|
+| Certification | Issued By | Issued On | Verify |
+|------------|-----|-----|----|
 | Databricks Certified Data Engineer Associate | Databricks | Jul 2025 | [Verify ↗](https://credentials.databricks.com/0656ec8b-1e26-4e86-a513-2322f70485a4) |
 | Microsoft Certified: Fabric Analytics Engineer Associate | Microsoft | May 2025 | [Verify ↗](https://learn.microsoft.com/api/credentials/share/en-gb/SrilekhaJidagam-7253/C9DE4B450AD86F71?sharingId=1372B8A54CAE3B30) |
 | Microsoft Certified: Power BI Data Analyst Associate | Microsoft | Jun 2024 | [Verify ↗](https://learn.microsoft.com/api/credentials/share/en-gb/SrilekhaJidagam-7253/2CEF7A0558A0E400?sharingId=1372B8A54CAE3B30) |
